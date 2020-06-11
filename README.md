@@ -10,8 +10,8 @@ Download Noodle and train that noodle.
 ### Built With
 * [Kotlin](https://kotlinlang.org/)
 * [Android](https://developer.android.com/)
-* [Android](https://developer.android.com/studio)
-* [Google](https://material.io/design)
+* [Android Studio](https://developer.android.com/studio)
+* [Google Material](https://material.io/design)
 
 ## Getting Started
 
