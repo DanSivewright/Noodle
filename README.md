@@ -53,5 +53,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Daniel Sivewright - [@daniel.sivewright](https://www.instagram.com/daniel.sivewright/?hl=en) - paulloots@me.com
+Daniel Sivewright - [@daniel.sivewright](https://www.instagram.com/daniel.sivewright/?hl=en) - dan@wixels.com
 
